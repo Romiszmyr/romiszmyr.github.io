@@ -1,4 +1,3 @@
-
 console.log ("Bienvenidos a mi Mundo");
 
 document.getElementById ("boton").addEventListener ("click", function() {
